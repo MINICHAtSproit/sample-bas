@@ -20,7 +20,7 @@ builder:
           url: http://alfesd12n.alfsap.local:8000/
         app:
           name: ZBSP01APPL
-          description: DeplDescription_3
+          description: DeplDescription_4
           package: ZMAIN
           transport: ESDK900032
         exclude:
